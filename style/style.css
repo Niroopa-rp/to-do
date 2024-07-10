@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    background-color: whitesmoke;
+}
+div{
+    margin: 10%;
+    border: 2px solid black;
+    width: 20%;
+    height: 10cm;
+    padding: 20px;
+    margin-left: 15cm;
+    background-color: lavenderblush;
+}
+input{
+    padding: 20%;
+    margin: 4%;
+}
+h2{
+    padding-left: 70px;
+    padding-bottom: 20px;
+    text-decoration: underline;
+}
